@@ -19,3 +19,5 @@ Run the script by
 DO NOT run the script from /home/(username)/Desktop, you will get an error
 This script does not add files to PATH, and does not download blast. Follow the
 instructions at the end of the script.
+Resfinder respository and README can be found at
+bitbucket.org/genomicepidemiology/resfinder/src/master
