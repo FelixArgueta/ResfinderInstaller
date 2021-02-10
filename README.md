@@ -4,10 +4,10 @@ and compiles the C programs for kma, and all databases.
 
 (windows is not recommended to download resfinder because it lacks c compilers)
 
-The dependencies are as follows
+The dependencies are as follows,
 pip3
 git
-Install these using
+Install these dependencies using
 sudo apt install git-all
 sudo apt install python3-pip
 
