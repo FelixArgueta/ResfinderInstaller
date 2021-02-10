@@ -3,7 +3,7 @@
 echo "Please enter your username"
 read varname
 echo "thankyou $varname, now starting install process"
-pip3 install tabulate biopython cgecore gitpython python-dateutil
+pip install tabulate biopython cgecore gitpython python-dateutil
 cd /Users/$varname/Desktop
 git clone https://git@bitbucket.org/genomicepidemiology/resfinder.git
 cd resfinder
