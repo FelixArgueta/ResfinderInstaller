@@ -1,4 +1,4 @@
-This script only works in Lunix-ubuntu (resfinder only works in unix based systems)
+This script only works in unix (there is a linux and mac version)
 This script installs resfinder, kma, resfinder_db, pointfinder_db, disinfinder_db
 and compiles the C programs for kma, and all databases.
 
